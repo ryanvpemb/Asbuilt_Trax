@@ -1,7 +1,5 @@
---Creates my_asbuilt_system database for portfolio project
 
-
---Creates my_asbuilt_system database for portfolio project
+--Creates asbuilt_trax database for portfolio project
 
 
 CREATE TABLE db_mains (
