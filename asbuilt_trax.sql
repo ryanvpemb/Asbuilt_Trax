@@ -67,7 +67,7 @@ VALUES ('Bill','bill@email.com'), ('Karl','karl@email.gov'), ('Sue', 'sue@altavi
 			('Mike', 'mike@yahoo.com');
 
 INSERT INTO gis_users (name, email)
-VALUES ('Harold','harold@hotmail.com'), ('Quentin','q@aol.com')
+VALUES ('Harold','harold@hotmail.com'), ('Quentin','q@aol.com');
 
 INSERT INTO asbuilts (work_order,install_Date,crew_leader_id, gis_user_id)
 VALUES (0001,'01/15/2022',1,1), (0345,'01/20/2022',2,2), (5468,'05/11/2021',3,2), 
